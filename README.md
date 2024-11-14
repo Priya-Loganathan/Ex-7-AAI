@@ -1,4 +1,4 @@
-# EX : 5 Implementation of Text  Summarization
+# EX-7 Implementation of Text  Summarization
 
 # Aim: 
 To perform automatic text summarization using Natural Language Processing (NLP) techniques.
